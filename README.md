@@ -71,4 +71,4 @@ Nếu bạn cần thêm tài khoản email, chạy vna.py.
 ```bash
 python vna.py
 ```
-**Lưu ý: **Các script sử dụng Selenium có thể gặp lỗi nếu giao diện website thay đổi.
+**Lưu ý:** Các script sử dụng Selenium có thể gặp lỗi nếu giao diện website thay đổi.
